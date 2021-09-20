@@ -27,12 +27,25 @@ em strong{
 
 .principal{
     background-color: #CCCCCC;
+    padding: 30px;
 }
 
 .beneficios{
     background-color: #FFFFFF;
+    padding: 20px;
 }
 
 h2{
     text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 15vw;
+    margin-right: 20vw;
+}
+
+.imagembeneficios{
+    width: 50vw;
 }
